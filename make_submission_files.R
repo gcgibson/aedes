@@ -25,7 +25,7 @@ for (model in models_to_run){
     return (row)
   })
   
-  write.csv(predictions,paste0("./submissions/ew","-",tail(total_data$ym,1),"-",model))
+  write.csv(predictions,paste0("./submissions/ew","-",tail(total_data$ym,1),"-",model),row.names = F)
 }
 
     
