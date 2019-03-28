@@ -3,21 +3,23 @@ source('model.R')
 library(dplyr)
 library(plyr)
 
-models_to_run <- c("null")
+models_to_run <- c("null","hmm")
 
 first_test_season <- 2016
 first_score_month <- 01
 
-predict_model <- function()
 
 for (model in models_to_run){
   template <- read.csv("./docs/submission_template.csv")
-  model_fit_and_date_string <- paste0(model,"-",first_test_season-1,12)
-  fitted_model_params <- readRDS(paste0("./model_fits/",model_fit_and_date_string))
   
   predictions <- ddply(template,.(location,target,type,unit),function(row){
+    model_fit_and_date_string <- paste0(model,"-",gsub(" ","-",row$target),"-",first_test_season-1,12)
+    fitted_model_params <- readRDS(paste0("./model_fits/",model_fit_and_date_string))
+    
     if (model == "null"){
-       prediction_from_fitted_model <- null_model_predict(total_data,target,fitted_model_params)
+       prediction_from_fitted_model <- null_model_predict(total_data,gsub(" ","-",row$target),fitted_model_params)
+    } else if (model == "hmm"){
+      prediction_from_fitted_model <- hmm_model_predict(total_data,gsub(" ","-",row$target),fitted_model_params)
     }
     row$value <- prediction_from_fitted_model
     return (row)

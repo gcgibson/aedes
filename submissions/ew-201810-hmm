@@ -1,0 +1,191 @@
+"","location","target","type","unit","value"
+"1","California-Alameda","Ae. aegypti","binary","present",0
+"2","California-Alameda","Ae. albopictus","binary","present",0
+"3","California-Butte","Ae. aegypti","binary","present",0
+"4","California-Butte","Ae. albopictus","binary","present",0
+"5","California-Colusa","Ae. aegypti","binary","present",0
+"6","California-Colusa","Ae. albopictus","binary","present",0
+"7","California-Contra Costa","Ae. aegypti","binary","present",0
+"8","California-Contra Costa","Ae. albopictus","binary","present",0
+"9","California-Fresno","Ae. aegypti","binary","present",0
+"10","California-Fresno","Ae. albopictus","binary","present",0.00111111111111111
+"11","California-Glenn","Ae. aegypti","binary","present",0
+"12","California-Glenn","Ae. albopictus","binary","present",0.00111111111111111
+"13","California-Imperial","Ae. aegypti","binary","present",0
+"14","California-Imperial","Ae. albopictus","binary","present",0.00111111111111111
+"15","California-Inyo","Ae. aegypti","binary","present",0
+"16","California-Inyo","Ae. albopictus","binary","present",0.00111111111111111
+"17","California-Kern","Ae. aegypti","binary","present",0
+"18","California-Kern","Ae. albopictus","binary","present",0.00111111111111111
+"19","California-Kings","Ae. aegypti","binary","present",0
+"20","California-Kings","Ae. albopictus","binary","present",0.00111111111111111
+"21","California-Lake","Ae. aegypti","binary","present",0
+"22","California-Lake","Ae. albopictus","binary","present",0
+"23","California-Los Angeles","Ae. aegypti","binary","present",0
+"24","California-Los Angeles","Ae. albopictus","binary","present",0
+"25","California-Madera","Ae. aegypti","binary","present",0
+"26","California-Madera","Ae. albopictus","binary","present",0
+"27","California-Marin","Ae. aegypti","binary","present",0
+"28","California-Marin","Ae. albopictus","binary","present",0
+"29","California-Merced","Ae. aegypti","binary","present",0
+"30","California-Merced","Ae. albopictus","binary","present",0
+"31","California-Mono","Ae. aegypti","binary","present",0
+"32","California-Mono","Ae. albopictus","binary","present",0.00111111111111111
+"33","California-Monterey","Ae. aegypti","binary","present",0.00222222222222222
+"34","California-Monterey","Ae. albopictus","binary","present",0.00111111111111111
+"35","California-Napa","Ae. aegypti","binary","present",0.00222222222222222
+"36","California-Napa","Ae. albopictus","binary","present",0.00111111111111111
+"37","California-Orange","Ae. aegypti","binary","present",0.00222222222222222
+"38","California-Orange","Ae. albopictus","binary","present",0.00111111111111111
+"39","California-Placer","Ae. aegypti","binary","present",0.00222222222222222
+"40","California-Placer","Ae. albopictus","binary","present",0.00111111111111111
+"41","California-Riverside","Ae. aegypti","binary","present",0.00222222222222222
+"42","California-Riverside","Ae. albopictus","binary","present",0.00111111111111111
+"43","California-Sacramento","Ae. aegypti","binary","present",0.00222222222222222
+"44","California-Sacramento","Ae. albopictus","binary","present",0
+"45","California-San Benito","Ae. aegypti","binary","present",0.00111111111111111
+"46","California-San Benito","Ae. albopictus","binary","present",0
+"47","California-San Bernardino","Ae. aegypti","binary","present",0.00111111111111111
+"48","California-San Bernardino","Ae. albopictus","binary","present",0
+"49","California-San Diego","Ae. aegypti","binary","present",0.00111111111111111
+"50","California-San Diego","Ae. albopictus","binary","present",0
+"51","California-San Francisco","Ae. aegypti","binary","present",0.00111111111111111
+"52","California-San Francisco","Ae. albopictus","binary","present",0
+"53","California-San Joaquin","Ae. aegypti","binary","present",0.00111111111111111
+"54","California-San Joaquin","Ae. albopictus","binary","present",0
+"55","California-San Luis Obispo","Ae. aegypti","binary","present",0.00111111111111111
+"56","California-San Luis Obispo","Ae. albopictus","binary","present",0
+"57","California-San Mateo","Ae. aegypti","binary","present",0.00111111111111111
+"58","California-San Mateo","Ae. albopictus","binary","present",0
+"59","California-Santa Barbara","Ae. aegypti","binary","present",0.00111111111111111
+"60","California-Santa Barbara","Ae. albopictus","binary","present",0
+"61","California-Santa Clara","Ae. aegypti","binary","present",0.00111111111111111
+"62","California-Santa Clara","Ae. albopictus","binary","present",0
+"63","California-Santa Cruz","Ae. aegypti","binary","present",0.00111111111111111
+"64","California-Santa Cruz","Ae. albopictus","binary","present",0
+"65","California-Shasta","Ae. aegypti","binary","present",0.00111111111111111
+"66","California-Shasta","Ae. albopictus","binary","present",0
+"67","California-Solano","Ae. aegypti","binary","present",0.00111111111111111
+"68","California-Solano","Ae. albopictus","binary","present",0
+"69","California-Sonoma","Ae. aegypti","binary","present",0.00111111111111111
+"70","California-Sonoma","Ae. albopictus","binary","present",0
+"71","California-Stanislaus","Ae. aegypti","binary","present",0.00111111111111111
+"72","California-Stanislaus","Ae. albopictus","binary","present",0
+"73","California-Sutter","Ae. aegypti","binary","present",0.00111111111111111
+"74","California-Sutter","Ae. albopictus","binary","present",0
+"75","California-Tulare","Ae. aegypti","binary","present",0.00111111111111111
+"76","California-Tulare","Ae. albopictus","binary","present",0
+"77","California-Ventura","Ae. aegypti","binary","present",0.00111111111111111
+"78","California-Ventura","Ae. albopictus","binary","present",0
+"79","California-Yolo","Ae. aegypti","binary","present",0.00111111111111111
+"80","California-Yolo","Ae. albopictus","binary","present",0
+"81","California-Yuba","Ae. aegypti","binary","present",0.00111111111111111
+"82","California-Yuba","Ae. albopictus","binary","present",0.00111111111111111
+"83","Connecticut-Fairfield","Ae. aegypti","binary","present",0.00222222222222222
+"84","Connecticut-Fairfield","Ae. albopictus","binary","present",0.00111111111111111
+"85","Connecticut-New Haven","Ae. aegypti","binary","present",0.00222222222222222
+"86","Connecticut-New Haven","Ae. albopictus","binary","present",0.00111111111111111
+"87","Florida-Calhoun","Ae. aegypti","binary","present",0.00222222222222222
+"88","Florida-Calhoun","Ae. albopictus","binary","present",0.00111111111111111
+"89","Florida-Collier","Ae. aegypti","binary","present",0.00222222222222222
+"90","Florida-Collier","Ae. albopictus","binary","present",0.00111111111111111
+"91","Florida-Escambia","Ae. aegypti","binary","present",0.00222222222222222
+"92","Florida-Escambia","Ae. albopictus","binary","present",0.00111111111111111
+"93","Florida-Gadsden","Ae. aegypti","binary","present",0
+"94","Florida-Gadsden","Ae. albopictus","binary","present",0.00111111111111111
+"95","Florida-Hillsborough","Ae. aegypti","binary","present",0
+"96","Florida-Hillsborough","Ae. albopictus","binary","present",0.00111111111111111
+"97","Florida-Holmes","Ae. aegypti","binary","present",0
+"98","Florida-Holmes","Ae. albopictus","binary","present",0.00111111111111111
+"99","Florida-Jackson","Ae. aegypti","binary","present",0
+"100","Florida-Jackson","Ae. albopictus","binary","present",0.00111111111111111
+"101","Florida-Jefferson","Ae. aegypti","binary","present",0
+"102","Florida-Jefferson","Ae. albopictus","binary","present",0.00111111111111111
+"103","Florida-Lee","Ae. aegypti","binary","present",0
+"104","Florida-Lee","Ae. albopictus","binary","present",0.00111111111111111
+"105","Florida-Liberty","Ae. aegypti","binary","present",0
+"106","Florida-Liberty","Ae. albopictus","binary","present",0
+"107","Florida-Madison","Ae. aegypti","binary","present",0
+"108","Florida-Madison","Ae. albopictus","binary","present",0
+"109","Florida-Manatee","Ae. aegypti","binary","present",0
+"110","Florida-Manatee","Ae. albopictus","binary","present",0
+"111","Florida-Martin","Ae. aegypti","binary","present",0
+"112","Florida-Martin","Ae. albopictus","binary","present",0
+"113","Florida-Miami-Dade","Ae. aegypti","binary","present",0
+"114","Florida-Miami-Dade","Ae. albopictus","binary","present",0
+"115","Florida-Okaloosa","Ae. aegypti","binary","present",0
+"116","Florida-Okaloosa","Ae. albopictus","binary","present",0.00111111111111111
+"117","Florida-Osceola","Ae. aegypti","binary","present",0.00111111111111111
+"118","Florida-Osceola","Ae. albopictus","binary","present",0.00111111111111111
+"119","Florida-Pasco","Ae. aegypti","binary","present",0.00111111111111111
+"120","Florida-Pasco","Ae. albopictus","binary","present",0.00111111111111111
+"121","Florida-Pinellas","Ae. aegypti","binary","present",0.00111111111111111
+"122","Florida-Pinellas","Ae. albopictus","binary","present",0.00111111111111111
+"123","Florida-Polk","Ae. aegypti","binary","present",0.00111111111111111
+"124","Florida-Polk","Ae. albopictus","binary","present",0.00111111111111111
+"125","Florida-Santa Rosa","Ae. aegypti","binary","present",0.00111111111111111
+"126","Florida-Santa Rosa","Ae. albopictus","binary","present",0.00111111111111111
+"127","Florida-St. Johns","Ae. aegypti","binary","present",0.00111111111111111
+"128","Florida-St. Johns","Ae. albopictus","binary","present",0.00111111111111111
+"129","Florida-Taylor","Ae. aegypti","binary","present",0.00111111111111111
+"130","Florida-Taylor","Ae. albopictus","binary","present",0.00111111111111111
+"131","Florida-Wakulla","Ae. aegypti","binary","present",0.00333333333333333
+"132","Florida-Wakulla","Ae. albopictus","binary","present",0.00111111111111111
+"133","Florida-Walton","Ae. aegypti","binary","present",0.00333333333333333
+"134","Florida-Walton","Ae. albopictus","binary","present",0.00111111111111111
+"135","Florida-Washington","Ae. aegypti","binary","present",0.00333333333333333
+"136","Florida-Washington","Ae. albopictus","binary","present",0.00111111111111111
+"137","New Jersey-Cumberland","Ae. aegypti","binary","present",0.00333333333333333
+"138","New Jersey-Cumberland","Ae. albopictus","binary","present",0.00111111111111111
+"139","New Jersey-Essex","Ae. aegypti","binary","present",0.00333333333333333
+"140","New Jersey-Essex","Ae. albopictus","binary","present",0.00111111111111111
+"141","New Jersey-Mercer","Ae. aegypti","binary","present",0
+"142","New Jersey-Mercer","Ae. albopictus","binary","present",0
+"143","New Jersey-Monmouth","Ae. aegypti","binary","present",0
+"144","New Jersey-Monmouth","Ae. albopictus","binary","present",0
+"145","New Jersey-Morris","Ae. aegypti","binary","present",0
+"146","New Jersey-Morris","Ae. albopictus","binary","present",0
+"147","New Jersey-Salem","Ae. aegypti","binary","present",0
+"148","New Jersey-Salem","Ae. albopictus","binary","present",0
+"149","New Jersey-Sussex","Ae. aegypti","binary","present",0
+"150","New Jersey-Sussex","Ae. albopictus","binary","present",0
+"151","New Jersey-Warren","Ae. aegypti","binary","present",0
+"152","New Jersey-Warren","Ae. albopictus","binary","present",0
+"153","New York-Bronx","Ae. aegypti","binary","present",0
+"154","New York-Bronx","Ae. albopictus","binary","present",0
+"155","New York-Kings","Ae. aegypti","binary","present",0
+"156","New York-Kings","Ae. albopictus","binary","present",0
+"157","New York-Nassau","Ae. aegypti","binary","present",0
+"158","New York-Nassau","Ae. albopictus","binary","present",0
+"159","New York-New York","Ae. aegypti","binary","present",0
+"160","New York-New York","Ae. albopictus","binary","present",0
+"161","New York-Queens","Ae. aegypti","binary","present",0
+"162","New York-Queens","Ae. albopictus","binary","present",0
+"163","New York-Richmond","Ae. aegypti","binary","present",0
+"164","New York-Richmond","Ae. albopictus","binary","present",0
+"165","New York-Rockland","Ae. aegypti","binary","present",0
+"166","New York-Rockland","Ae. albopictus","binary","present",0
+"167","New York-Westchester","Ae. aegypti","binary","present",0
+"168","New York-Westchester","Ae. albopictus","binary","present",0
+"169","North Carolina-Forsyth","Ae. aegypti","binary","present",0
+"170","North Carolina-Forsyth","Ae. albopictus","binary","present",0
+"171","North Carolina-New Hanover","Ae. aegypti","binary","present",0
+"172","North Carolina-New Hanover","Ae. albopictus","binary","present",0
+"173","North Carolina-Pitt","Ae. aegypti","binary","present",0
+"174","North Carolina-Pitt","Ae. albopictus","binary","present",0
+"175","North Carolina-Transylvania","Ae. aegypti","binary","present",0
+"176","North Carolina-Transylvania","Ae. albopictus","binary","present",0
+"177","North Carolina-Wake","Ae. aegypti","binary","present",0
+"178","North Carolina-Wake","Ae. albopictus","binary","present",0
+"179","Texas-Cameron","Ae. aegypti","binary","present",0
+"180","Texas-Cameron","Ae. albopictus","binary","present",0
+"181","Texas-Hidalgo","Ae. aegypti","binary","present",0
+"182","Texas-Hidalgo","Ae. albopictus","binary","present",0
+"183","Texas-Tarrant","Ae. aegypti","binary","present",0
+"184","Texas-Tarrant","Ae. albopictus","binary","present",0
+"185","Wisconsin-Dane","Ae. aegypti","binary","present",0
+"186","Wisconsin-Dane","Ae. albopictus","binary","present",0
+"187","Wisconsin-Milwaukee","Ae. aegypti","binary","present",0
+"188","Wisconsin-Milwaukee","Ae. albopictus","binary","present",0
+"189","Wisconsin-Waukesha","Ae. aegypti","binary","present",0
+"190","Wisconsin-Waukesha","Ae. albopictus","binary","present",0
