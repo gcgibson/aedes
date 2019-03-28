@@ -11,13 +11,13 @@ first_score_month <- 01
 predict_model <- function()
 
 for (model in models_to_run){
-  template <- read.csv("/Users/gcgibson/Downloads/submission_template.csv")
+  template <- read.csv("./docs/submission_template.csv")
   model_fit_and_date_string <- paste0(model,"-",first_test_season-1,12)
   fitted_model_params <- readRDS(paste0("./model_fits/",model_fit_and_date_string))
   
   predictions <- ddply(template,.(location,target,type,unit),function(row){
     if (model == "null"){
-       prediction_from_fitted_model <- null_model_predict(total_data,fitted_model_params)
+       prediction_from_fitted_model <- null_model_predict(total_data,target,fitted_model_params)
     }
     row$value <- prediction_from_fitted_model
     return (row)
