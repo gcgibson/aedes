@@ -1,11 +1,11 @@
-data_ca <- read.csv("/Users/gcgibson/Downloads/aedes_collections_california.csv")
-data_ct <- read.csv("/Users/gcgibson/Downloads/aedes_collections_connecticut.csv")
-data_fl <- read.csv("/Users/gcgibson/Downloads/aedes_collections_florida.csv")
-data_nj <- read.csv("/Users/gcgibson/Downloads/aedes_collections_new_jersey.csv")
-data_ny <- read.csv("/Users/gcgibson/Downloads/aedes_collections_new_york.csv")
-data_nc <- read.csv("/Users/gcgibson/Downloads/aedes_collections_north_carolina.csv")
-data_tx <- read.csv("/Users/gcgibson/Downloads/aedes_collections_texas.csv")
-data_wi <- read.csv("/Users/gcgibson/Downloads/aedes_collections_wisconsin.csv")
+data_ca <- read.csv("./data/aedes_collections_california.csv")
+data_ct <- read.csv("./data/aedes_collections_connecticut.csv")
+data_fl <- read.csv("./data/aedes_collections_florida.csv")
+data_nj <- read.csv("./data/aedes_collections_new_jersey.csv")
+data_ny <- read.csv("./data/aedes_collections_new_york.csv")
+data_nc <- read.csv("./data/aedes_collections_north_carolina.csv")
+data_tx <- read.csv("./data/aedes_collections_texas.csv")
+data_wi <- read.csv("./data/aedes_collections_wisconsin.csv")
 
 
 
