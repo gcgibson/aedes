@@ -4,6 +4,8 @@ library(dplyr)
 library(plyr)
 
 models_to_run <- c("null","hmm","fomm")
+#models_to_run <- c("fomm")
+
 
 first_test_season <- 2019
 first_score_month <- 04
@@ -15,7 +17,7 @@ for (model in models_to_run){
   
   predictions <- ddply(template,.(location,target,type,unit),function(row){
     model_fit_and_date_string <- paste0(model,"-",gsub(" ","-",row$target),"-",first_test_season-1,10)
-    fitted_model_params <- readRDS(paste0("./model_fits/",model_fit_and_date_string))
+    fitted_model_params <- readRDS(paste0("./model_fits/",model_fit_and_date_string,"-",row$location))
     
     if (model == "null"){
        prediction_from_fitted_model <- null_model_predict(total_data,gsub(" ","-",row$target),fitted_model_params)

@@ -22,6 +22,7 @@ for (row in 1:nrow(total_data)){
   }
 }
 total_data$ym <- ym
+total_data$location <- paste0(total_data$state,"-",total_data$county)
 ### Exploration plots
 library(ggplot2)
 ggplot(total_data,aes(x=ym,num_aegypti_collected,col=state)) + geom_line()+ theme(axis.text.x = element_text(angle = 90, hjust = 1)) 
